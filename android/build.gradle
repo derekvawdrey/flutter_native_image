@@ -32,4 +32,6 @@ android {
         disable 'InvalidPackage'
         abortOnError false
     }
+
+    namespace 'com.d.flutter_native_image'
 }
