@@ -1,3 +1,7 @@
+# Note:
+I am not the author of this, I simply had to make some changes to allow compliation on SDK 34 android
+
+
 # flutter_native_image
 [![pub package](https://img.shields.io/pub/v/flutter_native_image.svg?label=flutter_native_image&color=blue)](https://pub.dartlang.org/packages/flutter_native_image)
 
